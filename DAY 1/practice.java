@@ -3,5 +3,6 @@ public class practice {
         System.out.println("Shivkumar");
         System.out.println("DSA");
         System.out.println("Python");
+        System.out.println("Java");
     }
 }
