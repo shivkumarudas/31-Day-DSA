@@ -1,7 +1,7 @@
 public class operators {
     public static void main(String[] args){
         int a=10;
-        int b=3;
+        int b=2;
         System.out.println("a+b = "+(a+b));
         System.out.println("a-b = "+(a-b));
         System.out.println("a*b = "+(a*b));
@@ -9,5 +9,5 @@ public class operators {
         System.out.println("a%b = "+(a%b));
 
     }
-    
+
 }
